@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/toolhunt/static/js/main.18d6420c.js",
+    "index.html": "/toolhunt/index.html",
+    "main.18d6420c.js.map": "/toolhunt/static/js/main.18d6420c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.18d6420c.js"
+  ]
+}
