@@ -1,8 +1,7 @@
 import React from "react";
-import Plot from 'react-plotly.js';
+import Plot from 'react-plotly.js'; //plotly library for charts
 
-const range = (start, stop, step) => Array.from({ length: (stop - start) / step + 1}, (_, i) => start + (i * step))
-
+//BarChart Component
 const BarChart = (props) =>{
   const data = [
    {
@@ -19,6 +18,7 @@ const BarChart = (props) =>{
     )
 }
 
+//Line Chart Component
 const LineChart = (props) =>{
   const data = [
    {
