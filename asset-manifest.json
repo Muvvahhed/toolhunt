@@ -1,10 +1,15 @@
 {
-  "files": {
-    "main.js": "/toolhunt/static/js/main.18d6420c.js",
-    "index.html": "/toolhunt/index.html",
-    "main.18d6420c.js.map": "/toolhunt/static/js/main.18d6420c.js.map"
-  },
-  "entrypoints": [
-    "static/js/main.18d6420c.js"
-  ]
+  "main.css": "/toolhunt/static/css/main.d975c855.chunk.css",
+  "main.js": "/toolhunt/static/js/main.d2ee7981.chunk.js",
+  "main.js.map": "/toolhunt/static/js/main.d2ee7981.chunk.js.map",
+  "static/css/1.c2eb62c2.chunk.css": "/toolhunt/static/css/1.c2eb62c2.chunk.css",
+  "static/js/1.34ad1929.chunk.js": "/toolhunt/static/js/1.34ad1929.chunk.js",
+  "static/js/1.34ad1929.chunk.js.map": "/toolhunt/static/js/1.34ad1929.chunk.js.map",
+  "runtime~main.js": "/toolhunt/static/js/runtime~main.1cd16efa.js",
+  "runtime~main.js.map": "/toolhunt/static/js/runtime~main.1cd16efa.js.map",
+  "static/css/1.c2eb62c2.chunk.css.map": "/toolhunt/static/css/1.c2eb62c2.chunk.css.map",
+  "static/css/main.d975c855.chunk.css.map": "/toolhunt/static/css/main.d975c855.chunk.css.map",
+  "index.html": "/toolhunt/index.html",
+  "precache-manifest.33222879ca4f0497919ccdce87599f0c.js": "/toolhunt/precache-manifest.33222879ca4f0497919ccdce87599f0c.js",
+  "service-worker.js": "/toolhunt/service-worker.js"
 }
