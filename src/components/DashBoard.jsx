@@ -1,7 +1,7 @@
 import React from "react";
-import { CircularProgressbar, buildStyles } from 'react-circular-progressbar';
-import 'react-circular-progressbar/dist/styles.css';
-import {BarChart, LineChart} from "./charts";
+import { CircularProgressbar, buildStyles } from 'react-circular-progressbar'; //for creating progress bars
+import 'react-circular-progressbar/dist/styles.css'; //for styling progress bars
+import {BarChart, LineChart} from "./charts"; //dashboard Charts
 
 
 
