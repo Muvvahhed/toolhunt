@@ -2,7 +2,9 @@ import React from "react";
 
 function Navigation(props){
     function handleClick(event) {
-       event.preventDefault()
+        //called during Navitems OnClick Event
+        //calls the App parent component currrentPage function and passes in the page's id
+        event.preventDefault()
         props.currentpage(event.target.id)
     }
 
