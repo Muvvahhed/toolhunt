@@ -38,6 +38,9 @@ function Navigation(props){
                         <li className="nav-item ms-2">
                             <input className="form-control me-2" type="search" placeholder="search tools"/>
                         </li>
+                        <li className="nav-item ms-2">
+                            <button className="btn btn-md btn-outline-light">Login</button>
+                        </li>
                     </ul>
                 </div>
             </div>

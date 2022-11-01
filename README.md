@@ -31,7 +31,7 @@ Html5, CSS3, Bootstrap,  Javascript, React
 
 <img src="./images/landing-img.PNG">
 
-This is where the users are assigned tasks where they can Accept, Change, and Skip Tasks
+This is where the users can login and are assigned tasks where they can Accept, Change, and Skip Tasks
 
 #### Dashoard
 
