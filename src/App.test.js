@@ -1,8 +1,15 @@
-import { render, screen } from '@testing-library/react';
+import { render, screen, fireEvent } from '@testing-library/react';
 import App from './components/App';
+import Navigation from "./components/Navigation";
 
-// test('renders learn react link', () => {
-//   render(<App />);
-//   const linkElement = screen.getByText(/learn react/i);
-//   expect(linkElement).toBeInTheDocument();
-// });
+describe(App, ()=>{
+  it("Testing Page Navigations", () => {
+    const{getByRole}= render(<Navigation/>)
+    const{getByText} = render(<App />)
+    const dashboardLink = getByRole("a", {id: "dashBoard"} )
+    fireEvent.click(dashboardLink)
+    const page = getByText(page)
+    expect(page).toEqual("dashBoard")
+
+  })
+})

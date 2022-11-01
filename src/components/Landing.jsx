@@ -15,10 +15,14 @@ function Landing(){
                     </ul>
                 </div>
             </div>
-            <div className="row justify-content-center mt-5">
+            <div className="row justify-content-center mt-5 mb-5">
                 <Task/>
             </div>
-
+            <div className="row justify-content-center mt-5">
+                <div className="col-6">
+                    <h5 className="text-success">Tasks Completed: 0</h5>
+                </div>
+            </div>
         </div>
     )
 
